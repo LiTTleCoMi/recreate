@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #111111 url(Solid-Black-Website-Background.jpg);
+    background-size: cover;
+}
+.nav {
+    background-color: #222222;
+    background-size: 100%;
+    list-style-type: none;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    word-spacing: 20px;
+    text-align: center;
+    margin-top: 0;
+    padding-left: 0;
+}
+a {
+    color: white;
+    text-decoration: none;
+    
+}
+.loc {
+    display: inline;
+    list-style-type: none;
+}
+.header {
+    position: relative;
+    color: white;
+    text-align: center;
+    top: 200px;
+    font-size: 70px;
+}
+.desc {
+    position: relative;
+    color: white;
+    text-align: center;
+    top: 180px;
+    font-size: 21px;
+}
+a:hover {
+    text-decoration: underline;
+}
